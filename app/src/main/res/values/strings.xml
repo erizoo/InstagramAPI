@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EducationAPI</string>
+    <string name="username">Введите имя пользователя</string>
+    <string name="find">Поиск</string>
 </resources>
